@@ -1,0 +1,5 @@
+Nome: luiz
+Idade: 21 anos
+Genero: masculino
+Altura: 1.67 m
+Peso: 56.7 kg

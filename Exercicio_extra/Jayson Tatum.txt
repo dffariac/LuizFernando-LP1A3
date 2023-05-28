@@ -1,0 +1,5 @@
+Nome: Jayson Tatum
+Idade: 25 anos
+Genero: Masculino
+Altura: 1.93 m
+Peso: 90.5 kg
